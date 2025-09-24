@@ -1,1 +1,3 @@
 # kidsTimeLine
+
+Project setup placeholder.
