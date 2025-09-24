@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+.env*
+.vercel
+.cache/
+*.png
+*.jpg
+*.pdf
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
